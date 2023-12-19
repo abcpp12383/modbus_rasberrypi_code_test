@@ -9,7 +9,7 @@ MODBUS_PORT = 502
 client = ModbusTcpClient(MODBUS_IP, port=MODBUS_PORT)
 
 
-
+   
 
 # main read loop
 while True:
