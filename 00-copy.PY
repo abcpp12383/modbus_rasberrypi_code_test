@@ -32,5 +32,5 @@ while True:
         finally:
         # 關閉連線
             client.close()
-    # sleep 2s before next polling
+    # sleep 1s before next polling
         time.sleep(1)
